@@ -6,4 +6,4 @@ Dataset used: https://www.kaggle.com/datasets/jonathansilva2020/orange-diseases-
 
 Confusion Matrix : 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Romulan12/EfficientNet-Classifciation/blob/main/confusion_matrix.png)
