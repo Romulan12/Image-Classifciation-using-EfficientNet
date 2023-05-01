@@ -2,6 +2,7 @@
 
 This repo contains the code for muklticlass classigication of orange diseases using transfer learning. 
 
+
 Models used: Pretrained EffiicentNet B0
 Dataset used: https://www.kaggle.com/datasets/jonathansilva2020/orange-diseases-dataset
 
