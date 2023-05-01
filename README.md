@@ -11,4 +11,4 @@ Confusion Matrix :
 
 Loss vs Accuracy curves: 
 
-https://github.com/Romulan12/EfficientNet-Classifciation/blob/main/lossVSaccuracy.png
+![alt text] (https://github.com/Romulan12/EfficientNet-Classifciation/blob/main/lossVSaccuracy.png)
