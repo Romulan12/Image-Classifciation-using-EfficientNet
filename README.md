@@ -1,6 +1,6 @@
 # Multiclass classification using EffincientNet
 
-This repo contains the code for multiclass classigication of orange diseases using transfer learning. 
+This repo contains the code for multiclass classification of orange diseases using transfer learning. 
 
 
 Models used: Pretrained EffiicentNet B0
